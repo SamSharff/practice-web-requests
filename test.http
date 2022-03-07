@@ -1,0 +1,5 @@
+GET https://app.slack.com/client/T02UBMJ4A75/C02TX2GS4LF/user_profile/U030QG7UWGZ
+
+HEAD https://app.slack.com/client/T02UBMJ4A75/C02TX2GS4LF/user_profile/U030QG7UWGZ
+
+GET https://www.nytimes.com/
