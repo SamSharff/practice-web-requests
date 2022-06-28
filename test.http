@@ -5,3 +5,5 @@ HEAD https://app.slack.com/client/T02UBMJ4A75/C02TX2GS4LF/user_profile/U030QG7UW
 GET https://www.nytimes.com/
 
 GET http://anyonecanlearntocode.com
+
+GET https://data.cityofchicago.org/resource/xzkq-xp2w.json
